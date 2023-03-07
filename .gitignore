@@ -1,0 +1,3 @@
+# Environment-specific artifacts
+.ipynb_checkpoints/
+.vscode/
