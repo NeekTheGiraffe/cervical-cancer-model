@@ -1,3 +1,4 @@
 # Environment-specific artifacts
 .ipynb_checkpoints/
 .vscode/
+__pycache__/
